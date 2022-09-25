@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @javedmomin
-- 👀 I’m interested in Solving Real Life Problems using my coding skills
-- 😎 I'm an Excel Geek & a Webscraping Expert
-- 🔭 I’m currently working as a Data Analyst & training Teams
-- 📫 You can reach me via email at javedmomin99@gmail.com
+- 🔭 I’m currently working as a Data Analyst 
+- 😎 I'm an Excel Geek & a Webscraping Expert.
+- 👀 I’m interested in Solving Real Life Problems using my Analytical skills.
+- 🧑‍🤝‍🧑 I'm a passionate Teacher & have Trained Teams on their Analytics journey.
+- 📫 You can reach me via email at javedmomin99@gmail.com 
+- 📲 You can also reach me via phone at +91-7208507051
 - 😄 Pronouns: Javed
