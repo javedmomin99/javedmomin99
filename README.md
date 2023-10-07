@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @javedmomin
-- 🔭 I’m currently working as a Data Analyst 
+- 🔭 I’m currently working as a Data Research Analyst 
 - 😎 I'm an Excel Geek & a Webscraping Expert.
 - 👀 I’m interested in Solving Real Life Problems using my Analytical skills.
 - 🧑‍🤝‍🧑 I'm a passionate Teacher & have Trained Teams on their Analytics journey.
