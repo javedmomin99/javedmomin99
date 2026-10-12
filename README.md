@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @javedmomin
-- 🔭 I’m currently working as a Data Research Analyst 
-- 😎 I'm an Excel Geek & a Webscraping Expert.
-- 👀 I’m interested in Solving Real Life Problems using my Analytical skills.
-- 🧑‍🤝‍🧑 I'm a passionate Teacher & have Trained Teams on their Analytics journey.
-- 📫 You can reach me via email at javedmomin99@gmail.com 
-- 📲 You can also reach me via phone at +91-7208507051
-- 😄 Pronouns: Javed
+👋 Hi, I'm @javedmomin, a Data Analyst who uses AI to automate the boring parts
+🔭 I'm currently building AI-powered data and business workflows at OKAY Pure Naturals (Grok, ChatGPT, Claude)
+📊 4+ years at Azent Overseas Education as a Data Research Analyst: 1,500+ universities, 10,00,000+ programs, ~48 hours saved every quarter
+😎 Power BI, SQL, Advanced Excel and Power Query fan, and a web scraping expert
+👀 I love solving real business problems with data and automation
+🧑‍🏫 Passionate teacher who has mentored 15+ interns on their analytics journey
+🎓 MBA graduate (Manipal University Jaipur) | 🏅 Microsoft Certified Power BI Data Analyst
+📫 Reach me at [javedmomin99@gmail.com](mailto:javedmomin99@gmail.com)
+📲 Phone: +91-7208507051
