@@ -1,9 +1,9 @@
-👋 Hi, I'm @javedmomin, a Data Analyst who uses AI to automate the boring parts
-🔭 I'm currently building AI-powered data and business workflows at OKAY Pure Naturals (Grok, ChatGPT, Claude)
-📊 4+ years at Azent Overseas Education as a Data Research Analyst: 1,500+ universities, 10,00,000+ programs, ~48 hours saved every quarter
-😎 Power BI, SQL, Advanced Excel and Power Query fan, and a web scraping expert
-👀 I love solving real business problems with data and automation
-🧑‍🏫 Passionate teacher who has mentored 15+ interns on their analytics journey
-🎓 MBA graduate (Manipal University Jaipur) | 🏅 Microsoft Certified Power BI Data Analyst
-📫 Reach me at [javedmomin99@gmail.com](mailto:javedmomin99@gmail.com)
-📲 Phone: +91-7208507051
+- 👋 Hi, I'm @javedmomin, a Data Analyst who uses AI to automate the boring parts
+- 🔭 I'm currently building AI-powered data and business workflows at OKAY Pure Naturals (Grok, ChatGPT, Claude)
+- 📊 4+ years at Azent Overseas Education as a Data Research Analyst: 1,500+ universities, 10,000,000+ programs, ~48 hours saved every quarter
+- 😎 Power BI, SQL, Advanced Excel and Power Query fan, and a web scraping expert
+- 👀 I love solving real business problems with data and automation
+- 🧑‍🏫 Passionate teacher who has mentored 15+ interns on their analytics journey
+- 🎓 MBA graduate (Manipal University Jaipur) | 🏅 Microsoft Certified Power BI Data Analyst
+- 📫 Reach me at javedmomin99@gmail.com
+- 📲 Phone: +91-7208507051
